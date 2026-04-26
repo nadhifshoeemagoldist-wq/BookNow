@@ -63,7 +63,7 @@ BookNow/
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/USERNAME/BookNow.git
+   git clone https://github.com/nadhifshoeemagoldist-wq/BookNow.git
    ```
 
 2. Pindahkan ke folder:
